@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1484747693 source:c:\users\ilop7\documents\testing_threads\main.cpp
+	<thread>
+	<fstream>
+	<string>
+	<iostream>
+	<ostream>
+	<windows.h>
+	<time.h>
+	<thread>
+
